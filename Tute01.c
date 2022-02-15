@@ -4,8 +4,7 @@
 
 #include <stdio.h>
 
-int main(viod
-) {
+int main() {
   
   return 0;
 }
